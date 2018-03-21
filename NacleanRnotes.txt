@@ -1,0 +1,23 @@
+Drop : 
+Columns - 
+Parks.No.of.Lights             533          60.09
+Parks.Water.Source             589          66.40
+Footpaths.Details.of.Enchroachment      205          96.24
+BBMP.Estates.Start.of.Contract.in.YYYY.MM.DD              126          30.81
+BBMP.Estates.End.of.Contract.in.YYYY.MM.DD                126          30.81
+BBMP.Estates.Duration.of.Contract..in.years.              125          30.56
+
+
+Rows -
+Overlap of: 
+	BTP.casualities.Casualties.Injuries.Combined.2013        5          11.90
+	BTP.casualities.Casualties.Injuries.Combined.2014        5          11.90
+
+BCP.Police Station Name with NA's
+
+
+Replace with value meaning outside of limit :
+Outside BMTC limits : 
+	BMTC.Bus.stops.Ward.No                    945          42.94
+	BMTC.Bus.stops.Ward.Name                  945          42.94
+

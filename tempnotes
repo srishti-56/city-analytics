@@ -1,0 +1,191 @@
+[1] "1128 NA's in Parks\n"
+[1] "Number of Rows :  887"
+                          na_count percentOfNaVal
+Parks.SL.No                      0           0.00
+Parks.Zone                       0           0.00
+Parks.Division                   0           0.00
+Parks.Ward.No                    0           0.00
+Parks.Ward.Name                  0           0.00
+Parks.Address.of.the.Park        0           0.00
+Parks.Latitude                   3           0.34
+Parks.Longitude                  3           0.34
+Parks.Area.in.acres              0           0.00
+Parks.No.of.Lights             533          60.09
+Parks.Water.Source             589          66.40
+
+
+[1] "16 NA's in BTP casualities\n"
+[1] "Number of Rows :  42"
+                                                  na_count percentOfNaVal
+BTP.casualities.S..No.                                   0           0.00
+BTP.casualities.Zone                                     0           0.00
+BTP.casualities.Traffic.Police.Station                   0           0.00
+BTP.casualities.Latitude                                 3           7.14
+BTP.casualities.Longitude                                3           7.14
+BTP.casualities.Casualties.Injuries.Combined.2013        5          11.90
+BTP.casualities.Casualties.Injuries.Combined.2014        5          11.90
+
+
+[1] "13 NA's in BCP\n"
+[1] "Number of Rows :  107"
+                                              na_count percentOfNaVal
+BCP.Police.Station.Name                              2           1.87
+BCP.Latitude                                         3           2.80
+BCP.Longitude                                        4           3.74
+BCP.No..of.FIR....01.Jan.2013.to.31.Dec.2013.        2           1.87
+BCP.No..of.FIR....01.Jan.2014.to.10.Sep.2014.        2           1.87
+
+
+[1] "226 NA's in Footpaths\n"
+[1] "Number of Rows :  213"
+                                   na_count percentOfNaVal
+Footpaths.S..No.                          0           0.00
+Footpaths.Zone                            0           0.00
+Footpaths.Division                        0           0.00
+Footpaths.Sub.Division                   10           4.69
+Footpaths.Ward.No.                        0           0.00
+Footpaths.Ward.Name                       0           0.00
+Footpaths.Address.of.Footpath             3           1.41
+Footpaths.Details.of.Enchroachment      205          96.24
+Footpaths.Length.in.mtr                   0           0.00
+Footpaths.Width.in.mtr                    8           3.76
+
+
+[1] "1890 NA's in BMTC Bus stops\n"
+[1] "Number of Rows :  2201"
+                                     na_count percentOfNaVal
+BMTC.Bus.stops.SL.No                        0           0.00
+BMTC.Bus.stops.Assembly.Constituency        0           0.00
+BMTC.Bus.stops.Ward.No                    945          42.94
+BMTC.Bus.stops.Ward.Name                  945          42.94
+BMTC.Bus.stops.Bus.Stops                    0           0.00
+BMTC.Bus.stops.Latitude                     0           0.00
+BMTC.Bus.stops.Longitude                    0           0.00
+
+
+[1] "515 NA's in BBMP Estates\n"
+[1] "Number of Rows :  409"
+                                                     na_count percentOfNaVal
+BBMP.Estates.SL.No                                          0           0.00
+BBMP.Estates.Zone                                           0           0.00
+BBMP.Estates.Data.Source                                    0           0.00
+BBMP.Estates.Property.Name                                  0           0.00
+BBMP.Estates.Unit                                           0           0.00
+BBMP.Estates.Lessee.Tenant                                  0           0.00
+BBMP.Estates.Latitude                                      69          16.87
+BBMP.Estates.Longitude                                     69          16.87
+BBMP.Estates.Start.of.Contract.in.YYYY.MM.DD              126          30.81
+BBMP.Estates.End.of.Contract.in.YYYY.MM.DD                126          30.81
+BBMP.Estates.Duration.of.Contract..in.years.              125          30.56
+BBMP.Estates.Purpose.of.Leasing.out.property                0           0.00
+BBMP.Estates.Area..sq.ft.                                   0           0.00
+BBMP.Estates.Annual.Lease.Rate..Rent.to.be.paid..Rs.        0           0.00
+BBMP.Estates.Lease.Rent.amount..Sq.ft                       0           0.00
+
+
+[1] "1257 NA's in BBMP Markets\n"
+[1] "Number of Rows :  5211"
+                                                     na_count percentOfNaVal
+BBMP.Markets.S..No.                                         0           0.00
+BBMP.Markets.Data.Source                                    0           0.00
+BBMP.Markets.Property.Name                                  0           0.00
+BBMP.Markets.Unit                                           0           0.00
+BBMP.Markets.Lessee.Tenant                                  2           0.04
+BBMP.Markets.Latitude                                     614          11.78
+BBMP.Markets.Longitude                                    614          11.78
+BBMP.Markets.Area..sq.ft.                                  27           0.52
+BBMP.Markets.Annual.Lease.Rate..Rent.to.be.paid..Rs.        0           0.00
+BBMP.Markets.Lease.Rent.amount..Sq.ft                       0           0.00
+
+
+[1] "3683 NA's in BBMP Tenders\n"
+[1] "Number of Rows :  4032"
+                                                   na_count percentOfNaVal
+BBMP.Tenders.SL.No                                        0           0.00
+BBMP.Tenders.Ward.No                                    434          10.76
+BBMP.Tenders.Ward.Name                                  533          13.22
+BBMP.Tenders.Division                                   405          10.04
+BBMP.Tenders.Zone                                       138           3.42
+BBMP.Tenders.Status                                       0           0.00
+BBMP.Tenders.From.Date                                    0           0.00
+BBMP.Tenders.To.Date                                      0           0.00
+BBMP.Tenders.Type.of.Tender                               0           0.00
+BBMP.Tenders.Department.Location                          0           0.00
+BBMP.Tenders.Tender.Number                                0           0.00
+BBMP.Tenders.Tender.Title                                 0           0.00
+BBMP.Tenders.Tender.Type                                  0           0.00
+BBMP.Tenders.Category                                     0           0.00
+BBMP.Tenders.Sub.Category                              2173          53.89
+BBMP.Tenders.Estimated.Value                              0           0.00
+BBMP.Tenders.Estimated.Value.in.Laks                      0           0.00
+BBMP.Tenders.NIT.Published.Date.YYYYMMDD                  0           0.00
+BBMP.Tenders.Last.Date.for.Bid.Submission.YYYYMMDD        0           0.00
+
+
+[1] "2122 NA's in Contractor bills\n"
+[1] "Number of Rows :  3526"
+                                 na_count percentOfNaVal
+Contractor.bills.SL.No                  0           0.00
+Contractor.bills.Zone                   0           0.00
+Contractor.bills.Division               0           0.00
+Contractor.bills.Ward.No                0           0.00
+Contractor.bills.Ward.Name              0           0.00
+Contractor.bills.P.Code              2122          60.18
+Contractor.bills.Job.Code               0           0.00
+Contractor.bills.Work.Details           0           0.00
+Contractor.bills.Contractor.Name        0           0.00
+Contractor.bills.Contractor.No          0           0.00
+Contractor.bills.BR.No                  0           0.00
+Contractor.bills.BR.Date                0           0.00
+Contractor.bills.CBR.No                 0           0.00
+Contractor.bills.CBR.Date               0           0.00
+Contractor.bills.Rtgs.No                0           0.00
+Contractor.bills.Rtgs.Date              0           0.00
+Contractor.bills.Gross                  0           0.00
+Contractor.bills.Deduction              0           0.00
+Contractor.bills.Net.Total              0           0.00
+Contractor.bills.Gross__1               0           0.00
+Contractor.bills.Deduction__1           0           0.00
+Contractor.bills.Net.Total__1           0           0.00
+
+
+[1] "667 NA's in Budget 14-15\n"
+[1] "Number of Rows :  1295"
+                                               na_count percentOfNaVal
+Budget.14.15.Page.No.                                 0           0.00
+Budget.14.15.Number.of.Department                     0           0.00
+Budget.14.15.Payment.or.Receipt                       0           0.00
+Budget.14.15.Department                               0           0.00
+Budget.14.15.Head                                     0           0.00
+Budget.14.15.Sub.Head                                 0           0.00
+Budget.14.15.Budget.Code                              0           0.00
+Budget.14.15.Budget.description                       0           0.00
+Budget.14.15.Status.of.work                         661          51.04
+Budget.14.15.Accounts..2012.13                        4           0.31
+Budget.14.15.Budget.Estimates...2013.14               0           0.00
+Budget.14.15.Revised.Estimates...2013.14              1           0.08
+Budget.14.15.Budget.Estimates.2014.15.Revenue.        1           0.08
+Budget.14.15.Budget.Estimates.2014.15.Capital.        0           0.00
+Budget.14.15.Budget.Estimates.2014.15.Total.          0           0.00
+
+
+[1] "780 NA's in Budget 15-16\n"
+[1] "Number of Rows :  1278"
+                                                      na_count percentOfNaVal
+Budget.15.16.Dep.Code                                        0           0.00
+Budget.15.16.Page.No.                                        0           0.00
+Budget.15.16.No.of.Department                                2           0.16
+Budget.15.16.Payment.and.Receipt                             0           0.00
+Budget.15.16.Dep...Code                                      0           0.00
+Budget.15.16.Department                                      0           0.00
+Budget.15.16.Head                                            3           0.23
+Budget.15.16.Sub.Head                                        1           0.08
+Budget.15.16.Budget.Code                                     0           0.00
+Budget.15.16.Budget.description                              0           0.00
+Budget.15.16.Status.of.work                                755          59.08
+Budget.15.16.Accounts...2013.14..Rs..in.lacs.                4           0.31
+Budget.15.16.Budget.Estimates...2014.15..Rs..in.lacs.        1           0.08
+Budget.15.16.Revised.Estimates.2014.15..Rs..in.lacs.         4           0.31
+Budget.15.16.Budget.Estimates.2015.16.Revenue.               4           0.31
+Budget.15.16.Budget.Estimates.2015.16.Capital.               4           0.31
+Budget.15.16.Budget.Estimates.2015.16.Total.                 2           0.16
